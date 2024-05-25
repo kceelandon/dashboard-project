@@ -28,6 +28,11 @@
     align-self: center;
 }
 
+.link img {
+    justify-self: center;
+    align-self: center;
+}
+
 .header {
     background-color: white;
 }
@@ -57,6 +62,22 @@
 }
 
 #logo p {
+    justify-self: right;
+    align-self: center;
+    margin-right: 60px;
+    font-size: large;
+    font-weight: bold;
+}
+
+img {
+    height: 40px;
+    width: 40px;
+    color: white;
+}
+
+#logo-img {
+    height: 50px;
+    width: 50px;
     justify-self: center;
     align-self: center;
 }
